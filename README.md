@@ -2,7 +2,7 @@
 
 ## Visão geral do sistema (Ainda em desenvolvimento)
 
-DSLearn é uma aplicação full stack web que venho desenvolvendo durante o módulo Spring-React da instituição de ensino [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior").
+DSLearn é uma aplicação full stack web que venho desenvolvendo durante o módulo [Spring-React](https://s3.sa-east-1.amazonaws.com/educandoweb.com.br/bds/bootcamp-spring-react-devsuperior-ementa.png "Ementa Spring-React") da instituição de ensino [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior").
 
 O sistema consiste em uma plataforma de ensino que mantém informações de cursos, suas turmas e alunos, bem como um fórum para perguntas e respostas sobre os conteúdos do curso.
 
